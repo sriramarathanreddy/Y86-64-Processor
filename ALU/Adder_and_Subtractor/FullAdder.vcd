@@ -1,0 +1,81 @@
+$date
+	Sun Feb 18 21:29:37 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module FullAdder_tb $end
+$var wire 1 ! Sum $end
+$var wire 1 " Cout $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % Cin $end
+$scope module x1 $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 % Cin $end
+$var wire 1 " Cout $end
+$var wire 1 ! Sum $end
+$var wire 1 & w1 $end
+$var wire 1 ' w2 $end
+$var wire 1 ( w3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#2
+0"
+0'
+0!
+0&
+0(
+0%
+0$
+0#
+#4
+1!
+1%
+#6
+0%
+1$
+#8
+1"
+0!
+1'
+1%
+#10
+0"
+0'
+1!
+0%
+0$
+1#
+#12
+1"
+0!
+1(
+1%
+#14
+0(
+1&
+0%
+1$
+#16
+1!
+1'
+1(
+1%
+#18
