@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sun Jan 14 10:18:51 2024
+[*]
+[dumpfile] "/home/sriramarathanreddykoluguri/Downloads/SEM 4/IPA/tutorial 13 jan/ALU/FullAdder.vcd"
+[dumpfile_mtime] "Sun Jan 14 10:17:43 2024"
+[dumpfile_size] 653
+[savefile] "/home/sriramarathanreddykoluguri/Downloads/SEM 4/IPA/tutorial 13 jan/ALU/FullAdder_gtk.gtkw"
+[timestart] 0
+[size] 1850 1016
+[pos] -51 -51
+*-2.578901 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+FullAdder_tb.A
+FullAdder_tb.B
+FullAdder_tb.Cin
+FullAdder_tb.Cout
+FullAdder_tb.Sum
+[pattern_trace] 1
+[pattern_trace] 0
